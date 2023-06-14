@@ -9,4 +9,6 @@ I studied finance at the University of Hawaii and computer science at Johns Hopk
 
 You can reach me at: _@tollypowell.com or @tollypowell 
 
+[Bookshelf](bookshelf.md)
+
 -- [@cheersmate](https://github.com/cheersmate)
