@@ -9,6 +9,7 @@ layout: default
 - Black Swan
 - Tao Te Ching
 - Thinking Fast and Slow
+- A Discourse on Winning and Losing, John Boyd
 
 **Biographies** 
 
