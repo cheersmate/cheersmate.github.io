@@ -8,5 +8,3 @@ I currently work at OpenAI and live in SF. Before OpenAI, I worked at Jasper (Ci
 
 [Email](mailto:_@tollypowell.com) _@tollypowell.com 
 
-[Email]:(mailto:_@tollypowell.com) _@tollypowell.com 
-
