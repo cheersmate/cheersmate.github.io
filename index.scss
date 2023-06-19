@@ -6,9 +6,39 @@
 @import "primer-layout/index.scss";
 @import "primer-utilities/index.scss";
 
+
+.markdown-body {
+  font-family: Georgia, serif;
+}
+
+/*  body {
+ background-color: black;
+ color: white;
+}*/ 
+
 @media only screen and (max-width: 760px) {
   .markdown-body {
     padding: 1em;
   }
 }
   
+
+   /* CSS for the navigation menu */
+   nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Add this line to make the menu items display horizontally */
+  }
+
+  nav li {
+    margin-right: 10px; /* Adjust the spacing between menu items as needed */
+  }
+
+  nav li:last-child {
+    margin-right: 0; /* Remove the right margin for the last menu item */
+  }
+
+  nav a {
+    text-decoration: none;
+  }
